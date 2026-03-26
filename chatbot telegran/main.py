@@ -1,6 +1,6 @@
 import telebot
 
-CHAVE_API = 'digite aqui a chave da api do seu bot'
+CHAVE_API = 'digite aqui a chave da api do bot'
 
 bot = telebot.TeleBot(CHAVE_API)
 
